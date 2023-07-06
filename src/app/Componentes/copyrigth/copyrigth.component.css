@@ -1,0 +1,31 @@
+/* FOOTER COPYRIGHT */
+
+#footer{
+    margin: auto;
+    color: rgb(240, 225, 215);
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.footer_grid{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.footer_grid h6{
+    font-size: 15px;
+}
+
+
+.footer_grid a img:hover{
+    border: #00EEFF 2px solid;
+    transition: 0.2s;
+}
+.footer_grid img{
+    width: 150px;
+    margin: auto;
+    transition: 0.2s;
+    padding-left: 10px;
+}

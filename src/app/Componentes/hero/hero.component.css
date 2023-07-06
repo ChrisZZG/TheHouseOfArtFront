@@ -1,0 +1,12 @@
+/* SECCION HERO */
+
+.hero{
+    width: 100vw;
+    
+}
+
+.hero img{
+    width: 100%;
+    object-fit: contain;
+   
+}
